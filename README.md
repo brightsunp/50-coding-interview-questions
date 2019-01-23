@@ -1,11 +1,11 @@
 # 50-coding-interview-questions
 > Don't do another coding interview... Until you've mastered these 50 whiteboarding questions.
-> <p align='right'>&mdash;Sam Gavis-Hughson, founder of Byte by Byte</p>
+> <p align='center'>&mdash;Sam Gavis-Hughson, founder of Byte by Byte</p>
 
 You can subscribe these problems from [here](https://www.byte-by-byte.com/50-questions/). Really appreciate it to [Sam](https://www.byte-by-byte.com/about/).
 
 ## Guide
-Developing a systematic approach to each problem as follows:
+Learn how to develop a systematic approach to each problem as follows:
 
 ### 1. Understand the problem
 Understanding exactly what is being asked is critical to your success. Ask any clarifying questions necessary. Look at the input and figure out how that resulted in the given output. If you see any obvious problem areas or edge cases, add in your own example. Based on the input and output, what should be the signature of your function?
@@ -14,7 +14,7 @@ Understanding exactly what is being asked is critical to your success. Ask any c
 The brute force solution makes you really understand the problem, and guarantees that you find a solution. Far too many people try to jump into an optimized solution and get lost. It's really hard to recover without simply starting over, and in an interview you definitely don't have time to start over.
 
 ### 3. Optimize the brute force solution
-Time to shine. But you shouldn't spend more than 5-10 minutes on this step before moving on to coding. Try brainstorming more efficient data structures, looking at duplicated or unnecessary work, or just looking for more efficient solutions unrelated to your brute force solution.
+Time to shine yourself. But you shouldn't spend more than 5-10 minutes on this step before moving on to coding. Try brainstorming more efficient data structures, looking at duplicated or unnecessary work, or just looking for more efficient solutions unrelated to your brute force solution.
 
 ### 4. Code the solution
 Since you've done all the legwork, coding should be the easy part. If not, it's worth dedicating time to practicing coding, particularly on paper or a whiteboard.
