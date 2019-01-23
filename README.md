@@ -24,7 +24,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 
 ## Problems
 ### Array(1-14)
-- [ ] Median of Arrays
+- [x] [Median of Arrays](array/01_MedianOfArrays.py)
 - [ ] 0-1 Knapsack
 - [ ] Matrix product
 - [ ] Find Duplicates
