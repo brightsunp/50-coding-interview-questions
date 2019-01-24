@@ -26,7 +26,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 ### Array(1-14)
 - [x] [Median of Arrays](array/01_Median-of-Arrays.py)
 - [x] [0-1 Knapsack](array/02_0-1-Knapsack.py)
-- [ ] Matrix product
+- [x] [Matrix Product](array/03_Matrix-Product.py)
 - [ ] Find Duplicates
 - [ ] Consecutive Array
 - [ ] Zero Matrix
