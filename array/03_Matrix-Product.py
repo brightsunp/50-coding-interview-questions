@@ -24,12 +24,11 @@ Notes: brute force O(2^(m+n-2))
 
 def matrix_product(matrix):
     # dp: [min_cur, max_cur]
-    m, n = len(matrix), len(matrix[0])
-    if m == 0 or n == 0:
+    if not matrix or not matrix[0]:
         return 0
 
+    m, n = len(matrix), len(matrix[0])
     dp = [[[_, _] for _ in range(n)] for _ in range(m)]
-
     dp[0][0] = [matrix[0][0], matrix[0][0]]
     for i in range(1, m):
         dp[i][0] = sorted(pre * matrix[i][0] for pre in dp[i-1][0])
