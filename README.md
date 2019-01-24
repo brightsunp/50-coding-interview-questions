@@ -30,7 +30,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [Find Duplicates](array/04_Find-Duplicates.py)
 - [x] [Consecutive Array](array/05_Consecutive-Array.py)
 - [x] [Zero Matrix](array/06_Zero-Matrix.py)
-- [ ] Square Submatrix
+- [x] [*Square Submatrix](array/07_Square-Submatrix.py)
 - [ ] Merge K Arrays
 - [ ] Matrix Search
 - [ ] Merge Arrays
