@@ -1,0 +1,8 @@
+# Environments
+venv/
+.idea/
+
+# Cache
+__pycache__
+*.log
+*.pyc
