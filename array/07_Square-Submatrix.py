@@ -25,15 +25,15 @@ def subarray1(matrix):
 
 
 def _extend(matrix, i, j, m, n):
-    length, row, col = 0, i, j
-    while row < m-length and col < n-length:
+    length = 0
+    while i < m-length and j < n-length:
         flag = True
-        for x in range(row, row+1+length):
-            if not matrix[x][col+length]:
+        for x in range(i, i+1+length):
+            if not matrix[x][j+length]:
                 flag = False
                 break
-        for y in range(col, col+1+length):
-            if not matrix[row+length][y]:
+        for y in range(j, j+1+length):
+            if not matrix[i+length][y]:
                 flag = False
                 break
         if flag:
