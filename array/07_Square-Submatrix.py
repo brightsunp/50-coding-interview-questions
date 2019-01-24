@@ -26,7 +26,7 @@ def subarray1(matrix):
 
 def _extend(matrix, i, j, m, n):
     length = 0
-    while i < m-length and j < n-length:
+    while length < min(m-i, n-j):
         flag = True
         for x in range(i, i+1+length):
             if not matrix[x][j+length]:
