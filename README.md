@@ -31,7 +31,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [Consecutive Array](array/05_Consecutive-Array.py)
 - [x] [Zero Matrix](array/06_Zero-Matrix.py)
 - [x] [*Square Submatrix](array/07_Square-Submatrix.py)
-- [ ] Merge K Arrays
+- [x] [Merge K Arrays](array/08_Merge-K-Arrays.py)
 - [ ] Matrix Search
 - [ ] Merge Arrays
 - [ ] Zero Sum Subarray
