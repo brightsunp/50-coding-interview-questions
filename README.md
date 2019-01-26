@@ -56,11 +56,11 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [ ] Smallest Change
 
 ### Stack(27-31)
-- [ ] Inorder Traversal
-- [ ] Sort Stacks
-- [ ] Stack from Queues
-- [ ] Palindromes
-- [ ] Max Stacks
+- [x] [Inorder Traversal](stack/27_Inorder_Traversal.py)
+- [x] [Sort Stacks](stack/28_Sort_Stacks.py)
+- [x] [Stack from Queues](stack/29_Stack_from_Queues.py)
+- [x] [Palindromes](stack/30_Palindromes.py)
+- [x] [**Max Stacks](stack/31_Max_Stacks.py)
 
 ### Bit Manipulation(32-37)
 - [ ] Two Missing Numbers
