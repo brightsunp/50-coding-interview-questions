@@ -9,10 +9,10 @@ Implement a LIFO stack that has a push(), pop(), and max() function, where max()
 
 
 class Node(object):
-    def __init__(self, val, next=None, old_max=None):
+    def __init__(self, val, next=None, pre_max=None):
         self.val = val
         self.next = next
-        self.old_max = old_max
+        self.pre_max = pre_max
 
 
 class MaxStack(object):
@@ -29,7 +29,7 @@ class MaxStack(object):
         # self.stack == head
         self.stack = p
 
-        p.old_max = self.cur_max
+        p.pre_max = self.cur_max
         if not self.cur_max or p.val > self.cur_max.val:
             self.cur_max = p
 
@@ -39,7 +39,7 @@ class MaxStack(object):
 
         head = self.stack
         self.stack = head.next
-        self.cur_max = head.old_max
+        self.cur_max = head.pre_max
         return head.val
 
     def max(self):
