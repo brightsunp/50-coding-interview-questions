@@ -35,7 +35,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [Matrix Search](array/09_Matrix-Search.py)
 - [x] [*Merge Arrays](array/10_Merge-Arrays.py)
 - [x] [*Zero Sum Subarray](array/11_Zero-Sum-Subarray.py)
-- [ ] Permutations
+- [x] [Permutations](array/12_Permutations.py)
 - [ ] N Stacks
 - [ ] Anagrams
 

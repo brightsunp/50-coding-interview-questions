@@ -18,10 +18,10 @@ class Solution(object):
     def knapsack(self, items, max_weight):
         # backtracking: find best solution
         self.max_sum = 0
-        self.dfs(items, max_weight, 0, len(items), 0)
+        self._dfs(items, max_weight, 0, len(items), 0)
         return self.max_sum
 
-    def dfs(self, items, target, pos, n, cur_sum):
+    def _dfs(self, items, target, pos, n, cur_sum):
         if target < 0:
             return
         if target == 0:
@@ -29,7 +29,7 @@ class Solution(object):
             return
         for i in range(pos, n):
             weight, value = items[i]
-            self.dfs(items, target-weight, i+1, n, cur_sum+value)
+            self._dfs(items, target-weight, i+1, n, cur_sum+value)
 
 
 if __name__ == '__main__':
