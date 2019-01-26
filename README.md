@@ -34,10 +34,10 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [Merge K Arrays](array/08_Merge-K-Arrays.py)
 - [x] [Matrix Search](array/09_Matrix-Search.py)
 - [x] [*Merge Arrays](array/10_Merge-Arrays.py)
-- [x] [*Zero Sum Subarray](array/11_Zero-Sum-Subarray.py)
+- [x] [Zero Sum Subarray](array/11_Zero-Sum-Subarray.py)
 - [x] [Permutations](array/12_Permutations.py)
-- [ ] N Stacks
-- [ ] Anagrams
+- [x] [**N Stacks](array/13_N_Stacks.py)
+- [x] [Anagrams](array/14_Anagrams.py)
 
 ### Graph(15-16)
 - [ ] Build Order
