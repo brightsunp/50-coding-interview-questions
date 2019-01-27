@@ -68,7 +68,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [Swap Variables](bit/34_Swap-Variables.py)
 - [x] [Gray Code](bit/35_Gray-Code.py)
 - [ ] Rotate Bits
-- [ ] Number of Ones in a Binary Number
+- [x] [Number of Ones in a Binary Number](bit/37_Ones-in-Binary.py)
 
 ### Linked List(38-44)
 - [ ] Linked List Cycles
