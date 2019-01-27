@@ -64,7 +64,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 
 ### Bit Manipulation(32-37)
 - [x] [*Two Missing Numbers](bit/32_Two-Missing-Numbers.py)
-- [ ] Bit Int Modules
+- [x] [Bit Int Modulus](bit/33_Bit-Int-Modulus.py)
 - [ ] Swap Variables
 - [ ] Gray Code
 - [ ] Rotate Bits
