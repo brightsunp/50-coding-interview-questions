@@ -11,8 +11,12 @@ mod({0x03, 0xED}, 10) = 5
 
 
 def mod(bits, num):
-    pass
+    res = 0
+    for bit in bits:
+        res = (res << 8) | (bit & 0xff)
+        res %= num
+    return res
 
 
 if __name__ == '__main__':
-    pass
+    assert mod([0x03, 0xED], 10) == 5
