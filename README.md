@@ -36,7 +36,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [*Merge Arrays](array/10_Merge-Arrays.py)
 - [x] [Zero Sum Subarray](array/11_Zero-Sum-Subarray.py)
 - [x] [Permutations](array/12_Permutations.py)
-- [x] [**N Stacks](array/13_N_Stacks.py)
+- [x] [**N Stacks](array/13_N-Stacks.py)
 - [x] [Anagrams](array/14_Anagrams.py)
 
 ### Graph(15-16)
@@ -56,11 +56,11 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [ ] Smallest Change
 
 ### Stack(27-31)
-- [x] [Inorder Traversal](stack/27_Inorder_Traversal.py)
-- [x] [Sort Stacks](stack/28_Sort_Stacks.py)
-- [x] [Stack from Queues](stack/29_Stack_from_Queues.py)
+- [x] [Inorder Traversal](stack/27_Inorder-Traversal.py)
+- [x] [Sort Stacks](stack/28_Sort-Stacks.py)
+- [x] [Stack from Queues](stack/29_Stack-from-Queues.py)
 - [x] [Palindromes](stack/30_Palindromes.py)
-- [x] [**Max Stacks](stack/31_Max_Stacks.py)
+- [x] [**Max Stacks](stack/31_Max-Stacks.py)
 
 ### Bit Manipulation(32-37)
 - [ ] Two Missing Numbers
