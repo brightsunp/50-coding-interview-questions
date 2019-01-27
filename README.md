@@ -66,7 +66,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [*Two Missing Numbers](bit/32_Two-Missing-Numbers.py)
 - [x] [Bit Int Modulus](bit/33_Bit-Int-Modulus.py)
 - [x] [Swap Variables](bit/34_Swap-Variables.py)
-- [ ] Gray Code
+- [x] [Gray Code](bit/35_Gray-Code.py)
 - [ ] Rotate Bits
 - [ ] Number of Ones in a Binary Number
 

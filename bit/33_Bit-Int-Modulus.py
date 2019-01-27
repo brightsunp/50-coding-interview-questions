@@ -8,3 +8,11 @@ Given a list of bytes a, each representing one byte of a larger integer (ie. {0x
 
 mod({0x03, 0xED}, 10) = 5
 '''
+
+
+def mod(bits, num):
+    pass
+
+
+if __name__ == '__main__':
+    pass
