@@ -63,7 +63,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [**Max Stacks](stack/31_Max-Stacks.py)
 
 ### Bit Manipulation(32-37)
-- [ ] Two Missing Numbers
+- [x] [*Two Missing Numbers](bit/32_Two-Missing-Numbers.py)
 - [ ] Bit Int Modules
 - [ ] Swap Variables
 - [ ] Gray Code
