@@ -8,12 +8,20 @@ Given two integers, write a function that swaps them without using any temporary
 '''
 
 
-def swap(num1, num2):
+def swap1(num1, num2):
     num1 = num1 ^ num2
     num2 = num1 ^ num2
     num1 = num1 ^ num2
     return num1, num2
 
 
+def swap2(num1, num2):
+    num1 = num1 + num2
+    num2 = num1 - num2
+    num1 = num1 - num2
+    return num1, num2
+
+
 if __name__ == '__main__':
-    assert swap(1, 2) == (2, 1)
+    for swap in [swap1, swap2]:
+        assert swap(1, 2) == (2, 1)
