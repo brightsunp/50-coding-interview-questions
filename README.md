@@ -72,8 +72,8 @@ This final step is critical. Not only does it show your interviewer that you're 
 
 ### Linked List(38-44)
 - [x] [Linked List Cycles](linked_list/38_Linked-List-Cycles.py)
-- [ ] Random Linked List
-- [ ] Dedup Linked List
+- [x] [Random Linked List](linked_list/39_Random-Linked-List.py)
+- [x] [*Dedup Linked List](linked_list/40_Dedup-Linked-List.py)
 - [ ] Split a Linked List
 - [ ] Nth to the Last Element
 - [ ] Three Sum
