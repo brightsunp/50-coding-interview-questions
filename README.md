@@ -74,8 +74,8 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [Linked List Cycles](linked_list/38_Linked-List-Cycles.py)
 - [x] [Random Linked List](linked_list/39_Random-Linked-List.py)
 - [x] [*Dedup Linked List](linked_list/40_Dedup-Linked-List.py)
-- [ ] Split a Linked List
-- [ ] Nth to the Last Element
+- [x] [*Split a Linked List](linked_list/41_Split-Linked-List.py)
+- [x] [Nth to the Last Element](linked_list/42_Nth-Last-Element.py)
 - [ ] Three Sum
 - [ ] Tree Level Order
 
