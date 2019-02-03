@@ -80,7 +80,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [Tree Level Order](linked_list/44_Tree-Level-Order.py)
 
 ### String(45-51)
-- [ ] Autocomplete
+- [x] [Autocomplete](string/45_Autocomplete.py)
 - [ ] String Deletion
 - [ ] Longest Common Substring
 - [ ] String Compression
