@@ -81,7 +81,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 
 ### String(45-51)
 - [x] [Autocomplete](string/45_Autocomplete.py)
-- [ ] String Deletion
+- [x] [*String Deletion](string/46_String-Deletion.py)
 - [ ] Longest Common Substring
 - [ ] String Compression
 - [ ] Fibonacci Number
