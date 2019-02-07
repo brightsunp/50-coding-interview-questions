@@ -82,7 +82,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 ### String(45-51)
 - [x] [Autocomplete](string/45_Autocomplete.py)
 - [x] [*String Deletion](string/46_String-Deletion.py)
-- [ ] Longest Common Substring
+- [ ] [Longest Common Substring](string/47_Longest-Common-Substring.py)
 - [ ] String Compression
 - [ ] Fibonacci Number
 - [ ] Priority Queue
