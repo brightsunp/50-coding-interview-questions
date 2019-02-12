@@ -84,6 +84,6 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [*String Deletion](string/46_String-Deletion.py)
 - [x] [*Longest Common Substring](string/47_Longest-Common-Substring.py)
 - [ ] String Compression
-- [ ] Fibonacci Number
+- [x] [Fibonacci Number](string/49_Fibonacci-Number.py)
 - [ ] Priority Queue
 - [ ] Kth Most Frequent String
