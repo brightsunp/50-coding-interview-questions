@@ -45,10 +45,10 @@ This final step is critical. Not only does it show your interviewer that you're 
 
 ### Recursion(17-26)
 - [x] [Random Binary Tree](recursion/17_Random-Binary-Tree.py)
-- [ ] Lowest Common Ancestor
-- [ ] Sum
-- [ ] Reverse Stack
-- [ ] Tree to Doubly Linked List
+- [x] [Lowest Common Ancestor](recursion/18_Lowest-Common-Ancestor.py)
+- [x] [Sum](recursion/19_Sum.py)
+- [x] [*Reverse Stack](recursion/20_Reverse-Stack.py)
+- [x] [*Tree to Doubly Linked List](recursion/21_Tree2Doubly-Linked-List.py)
 - [ ] Longest Consecutive Branch
 - [ ] Print Reversed Linked List
 - [ ] Balanced Binary Tree

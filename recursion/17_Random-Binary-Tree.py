@@ -21,7 +21,7 @@ class TreeNode(object):
 
 
 def random_node(root):
-    # level order + Reservoir Sampling
+    # LevelOrder + ReservoirSampling
     r, i = None, 0
     queue = root and [root]
     while queue:
