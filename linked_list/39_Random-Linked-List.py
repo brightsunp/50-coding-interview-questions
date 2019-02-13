@@ -11,7 +11,6 @@ Given a linked list where each node has two pointers, one to the next node and o
 v    v    v    v
 3    1    3    2
 '''
-
 from random import randint
 
 

@@ -13,7 +13,6 @@ dups([2, 1, 2, 1]) = [1, 2]
 
 Notes: result no need in same order, revert the original array if in-place modification not allowed.
 '''
-
 from collections import Counter
 
 

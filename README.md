@@ -44,7 +44,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [ ] Shortest Path
 
 ### Recursion(17-26)
-- [ ] Random Binary Tree
+- [x] [Random Binary Tree](recursion/17_Random-Binary-Tree.py)
 - [ ] Lowest Common Ancestor
 - [ ] Sum
 - [ ] Reverse Stack

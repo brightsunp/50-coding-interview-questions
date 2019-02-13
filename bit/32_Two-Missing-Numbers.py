@@ -8,7 +8,6 @@ Given an array containing all the numbers from 1 to n except two, find the two m
 
 missing([4, 2, 3]) = 1, 5
 '''
-
 from functools import reduce
 
 

@@ -9,7 +9,6 @@ Given a linked list, write a function to split the list into two equal halves.
 divide(1 -> 2 -> 3 -> 4) = 1 -> 2, 3 -> 4
 divide(1 -> 2 -> 3 -> 4 -> 5) = 1 -> 2 -> 3, 4 -> 5
 '''
-
 from copy import deepcopy
 
 
