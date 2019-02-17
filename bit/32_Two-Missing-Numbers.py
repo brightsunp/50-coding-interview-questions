@@ -9,6 +9,7 @@ Given an array containing all the numbers from 1 to n except two, find the two m
 missing([4, 2, 3]) = 1, 5
 '''
 from functools import reduce
+from collections import Counter
 
 
 def missing1(nums):
@@ -29,13 +30,13 @@ def missing1(nums):
 def missing2(nums):
     # convert to Single Number III (Leetcode)
     n = len(nums) + 2
-    arr = nums + [i+1 for i in range(1, n)]
+    arr = nums + list(range(1, n+1))
     calc = reduce(lambda x, y: x ^ y, arr)
-    # last '1' bit
+    # get last '1' bit
     calc &= -calc
     res = [0, 0]
     for num in arr:
-        if num & calc == 0:
+        if num & calc:
             res[0] ^= num
         else:
             res[1] ^= num
@@ -47,10 +48,10 @@ if __name__ == '__main__':
     test2 = [4, 2, 3]
     test3 = [5, 1, 3]
 
-    for missing in [missing1]:
+    for missing in [missing1, missing2]:
         dup1 = test1[:]
-        assert missing(dup1) == [1, 2]
+        assert Counter(missing(dup1)) == Counter([1, 2])
         dup2 = test2[:]
-        assert missing(dup2) == [1, 5]
+        assert Counter(missing(dup2)) == Counter([1, 5])
         dup3 = test3[:]
-        assert missing(dup3) == [2, 4]
+        assert Counter(missing(dup3)) == Counter([2, 4])

@@ -33,7 +33,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [*Square Submatrix](array/07_Square-Submatrix.py)
 - [x] [Merge K Arrays](array/08_Merge-K-Arrays.py)
 - [x] [Matrix Search](array/09_Matrix-Search.py)
-- [x] [*Merge Arrays](array/10_Merge-Arrays.py)
+- [x] [Merge Arrays](array/10_Merge-Arrays.py)
 - [x] [Zero Sum Subarray](array/11_Zero-Sum-Subarray.py)
 - [x] [Permutations](array/12_Permutations.py)
 - [x] [**N Stacks](array/13_N-Stacks.py)
@@ -48,7 +48,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [Lowest Common Ancestor](recursion/18_Lowest-Common-Ancestor.py)
 - [x] [Sum](recursion/19_Sum.py)
 - [x] [*Reverse Stack](recursion/20_Reverse-Stack.py)
-- [x] [*Tree to Doubly Linked List](recursion/21_Tree2Doubly-Linked-List.py)
+- [x] [Tree to Doubly Linked List](recursion/21_Tree2Doubly-Linked-List.py)
 - [ ] Longest Consecutive Branch
 - [ ] Print Reversed Linked List
 - [ ] Balanced Binary Tree
@@ -74,7 +74,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [Linked List Cycles](linked_list/38_Linked-List-Cycles.py)
 - [x] [Random Linked List](linked_list/39_Random-Linked-List.py)
 - [x] [*Dedup Linked List](linked_list/40_Dedup-Linked-List.py)
-- [x] [*Split a Linked List](linked_list/41_Split-Linked-List.py)
+- [x] [Split a Linked List](linked_list/41_Split-Linked-List.py)
 - [x] [Nth to the Last Element](linked_list/42_Nth-Last-Element.py)
 - [x] [Three Sum](linked_list/43_Three-Sum.py)
 - [x] [Tree Level Order](linked_list/44_Tree-Level-Order.py)
@@ -85,5 +85,5 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [*Longest Common Substring](string/47_Longest-Common-Substring.py)
 - [x] [String Compression](string/48_String-Compression.py)
 - [x] [Fibonacci Number](string/49_Fibonacci-Number.py)
-- [x] [Priority Queue](string/50_Priority-Queue.py)
+- [x] [*Priority Queue](string/50_Priority-Queue.py)
 - [x] [Kth Most Frequent String](string/51_Kth-Most-Frequent-String.py)

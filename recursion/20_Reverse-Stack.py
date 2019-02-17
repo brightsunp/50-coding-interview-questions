@@ -11,6 +11,7 @@ Notes: https://blog.csdn.net/dm_vincent/article/details/8008238
 
 
 def reverse(stack):
+    # double recursive
     if not stack:
         return
     tmp = stack.pop()
