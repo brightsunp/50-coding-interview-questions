@@ -18,8 +18,8 @@ class LinkNode(object):
         self.next = next
 
 
-def divide(root):
-    fir, slow, fast = root, root, root.next
+def divide(head):
+    fir, slow, fast = head, head, head.next
     while fast and fast.next:
         fast = fast.next.next
         slow = slow.next

@@ -21,18 +21,18 @@ class LinkNode(object):
         self.rand = rand
 
 
-def clone(root):
-    dup = root
+def clone(head):
+    dup = head
     cur = dup
     while cur:
-        cur.rand = _get_random(root)
+        cur.rand = _get_random(head)
         cur = cur.next
     return dup
 
 
-def _get_random(root):
+def _get_random(head):
     # Reservoir Sampling
-    cur, r, i = root, None, 0
+    cur, r, i = head, None, 0
     while cur:
         if randint(0, i) == 0:
             r = cur

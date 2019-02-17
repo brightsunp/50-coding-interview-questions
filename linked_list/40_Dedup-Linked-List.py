@@ -16,31 +16,31 @@ class LinkNode(object):
         self.next = next
 
 
-def dedup1(root):
+def dedup1(head):
     # hashset
     unq = set()
-    res, pre = root, None
-    while root:
-        if root.val in unq:
-            pre.next = root.next
+    res, pre = head, None
+    while head:
+        if head.val in unq:
+            pre.next = head.next
         else:
-            unq.add(root.val)
-            pre = root
-        root = root.next
+            unq.add(head.val)
+            pre = head
+        head = head.next
     return res
 
 
-def dedup2(root):
+def dedup2(head):
     # brute
-    res = root
-    while root:
-        cur = root
+    res = head
+    while head:
+        cur = head
         while cur.next:
             if cur.next.val == cur.val:
                 cur.next = cur.next.next
             else:
                 cur = cur.next
-        root = root.next
+        head = head.next
     return res
 
 

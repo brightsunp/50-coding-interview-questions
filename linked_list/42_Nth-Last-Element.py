@@ -20,8 +20,8 @@ class LinkNode(object):
         self.next = next
 
 
-def nth2last(root, n):
-    fir, sec = root, root
+def nth2last(head, n):
+    fir, sec = head, head
     for _ in range(n):
         if not sec:
             return None

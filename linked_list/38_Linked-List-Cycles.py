@@ -18,9 +18,9 @@ class LinkNode(object):
         self.next = next
 
 
-def contains(root):
+def contains(head):
     # Floyd Cycle Detection Algorithm
-    slow, fast = root, root
+    slow, fast = head, head
     while fast and fast.next:
         slow = slow.next
         fast = fast.next.next
