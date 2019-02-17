@@ -51,9 +51,9 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [Tree to Doubly Linked List](recursion/21_Tree2Doubly-Linked-List.py)
 - [x] [*Longest Consecutive Branch](recursion/22_Longest-Consecutive-Branch.py)
 - [x] [Print Reversed Linked List](recursion/23_Print-Reversed-Linked-List.py)
-- [ ] Balanced Binary Tree
-- [ ] Binary Search Tree Verification
-- [ ] Smallest Change
+- [x] [Balanced Binary Tree](recursion/24_Balanced-Binary-Tree.py)
+- [x] [*Binary Search Tree Verification](recursion/25_BST-Verification.py)
+- [x] [**Smallest Change](recursion/26_Smallest-Change.py)
 
 ### Stack(27-31)
 - [x] [Inorder Traversal](stack/27_Inorder-Traversal.py)
