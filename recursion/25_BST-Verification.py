@@ -2,9 +2,11 @@
 # coding=utf-8
 '''
 __author__ = 'sunp'
-__date__ = '2019/2/17'
+__date__ = '2019/2/20'
 
 Given a binary tree, write a function to test if the tree is a binary search tree.
+
+Notes: node.left.val <= node.val < node.right.val
 '''
 import sys
 
@@ -23,6 +25,19 @@ def is_bst(root):
 def _helper(node, a, b):
     if not node:
         return True
-    if node.val < a or node.val > b:
+    if node.val <= a or node.val > b:
         return False
     return _helper(node.left, a, node.val) and _helper(node.right, node.val, b)
+
+
+if __name__ == '__main__':
+    test = TreeNode(2)
+    test.left = TreeNode(2)
+    test.left.left = TreeNode(1)
+    test.right = TreeNode(3)
+
+    assert is_bst(None)
+    assert is_bst(test)
+
+    test.right.val = 2
+    assert not is_bst(test)
