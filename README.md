@@ -40,8 +40,8 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [Anagrams](array/14_Anagrams.py)
 
 ### Graph(15-16)
-- [ ] Build Order
-- [ ] Shortest Path
+- [x] [Build Order](graph/15_Build-Order.py)
+- [ ] [Shortest Path](graph/16_Shortest-Path.py)
 
 ### Recursion(17-26)
 - [x] [Random Binary Tree](recursion/17_Random-Binary-Tree.py)
@@ -49,10 +49,10 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [Sum](recursion/19_Sum.py)
 - [x] [*Reverse Stack](recursion/20_Reverse-Stack.py)
 - [x] [Tree to Doubly Linked List](recursion/21_Tree2Doubly-Linked-List.py)
-- [x] [*Longest Consecutive Branch](recursion/22_Longest-Consecutive-Branch.py)
+- [x] [Longest Consecutive Branch](recursion/22_Longest-Consecutive-Branch.py)
 - [x] [Print Reversed Linked List](recursion/23_Print-Reversed-Linked-List.py)
 - [x] [Balanced Binary Tree](recursion/24_Balanced-Binary-Tree.py)
-- [x] [*Binary Search Tree Verification](recursion/25_BST-Verification.py)
+- [x] [Binary Search Tree Verification](recursion/25_BST-Verification.py)
 - [x] [**Smallest Change](recursion/26_Smallest-Change.py)
 
 ### Stack(27-31)
@@ -63,7 +63,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [**Max Stacks](stack/31_Max-Stacks.py)
 
 ### Bit Manipulation(32-37)
-- [x] [*Two Missing Numbers](bit/32_Two-Missing-Numbers.py)
+- [x] [Two Missing Numbers](bit/32_Two-Missing-Numbers.py)
 - [x] [Bit Int Modulus](bit/33_Bit-Int-Modulus.py)
 - [x] [Swap Variables](bit/34_Swap-Variables.py)
 - [x] [Gray Code](bit/35_Gray-Code.py)
@@ -73,7 +73,7 @@ This final step is critical. Not only does it show your interviewer that you're 
 ### Linked List(38-44)
 - [x] [Linked List Cycles](linked_list/38_Linked-List-Cycles.py)
 - [x] [Random Linked List](linked_list/39_Random-Linked-List.py)
-- [x] [*Dedup Linked List](linked_list/40_Dedup-Linked-List.py)
+- [x] [Dedup Linked List](linked_list/40_Dedup-Linked-List.py)
 - [x] [Split a Linked List](linked_list/41_Split-Linked-List.py)
 - [x] [Nth to the Last Element](linked_list/42_Nth-Last-Element.py)
 - [x] [Three Sum](linked_list/43_Three-Sum.py)
