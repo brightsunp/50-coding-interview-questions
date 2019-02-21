@@ -85,5 +85,5 @@ This final step is critical. Not only does it show your interviewer that you're 
 - [x] [*Longest Common Substring](string/47_Longest-Common-Substring.py)
 - [x] [String Compression](string/48_String-Compression.py)
 - [x] [Fibonacci Number](string/49_Fibonacci-Number.py)
-- [x] [*Priority Queue](string/50_Priority-Queue.py)
+- [x] [**Priority Queue](string/50_Priority-Queue.py)
 - [x] [Kth Most Frequent String](string/51_Kth-Most-Frequent-String.py)

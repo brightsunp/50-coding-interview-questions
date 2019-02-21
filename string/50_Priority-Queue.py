@@ -9,7 +9,9 @@ Implement a Priority Queue
 
 
 class PriorityQueue(object):
-    '''lowest first'''
+    '''
+    lowest first: min heap
+    '''
     def __init__(self):
         self._queue = []
 
